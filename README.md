@@ -1,3 +1,3 @@
 # My Master Degree in Big Data
 
-Labs about my learning process in my master degree
+Labs about my learning process in my master degree, folders for each asignature.
